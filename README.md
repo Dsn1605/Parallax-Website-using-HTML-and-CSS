@@ -43,7 +43,7 @@ The project contains the following files and directories:
 1. Clone the repository or download the project files to your local machine.
 
 ```bash
-git clone https://github.com/yourusername/parallax-website.git
+git clone https://github.com/Dsn1605/Parallax-Website-using-HTML-and-CSS.git
 ```
 
 2. Open the `index.html` file in your preferred web browser to view the website.
